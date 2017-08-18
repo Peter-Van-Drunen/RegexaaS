@@ -1,0 +1,23 @@
+{
+  "name": "regexaas",
+  "version": "0.0.1",
+  "description": "regex as a service",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node api.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Peter-Van-Drunen/RegexaaS.git"
+  },
+  "keywords": [
+    "regex"
+  ],
+  "author": "Peter Van Drunen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Peter-Van-Drunen/RegexaaS/issues"
+  },
+  "homepage": "https://github.com/Peter-Van-Drunen/RegexaaS#readme"
+}
